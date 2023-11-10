@@ -36,7 +36,7 @@ main {
   width: 350px;
   height: auto;
   text-align: center;
-  border: 1px solid #c9c9c9;
+/*   border: 1px solid #c9c9c9; */
   padding: 40px 20px;
   padding-bottom: 20px;
   background-color: #fff;
@@ -145,7 +145,7 @@ form a {
 .sign-up {
   height: auto;
   text-align: center;
-  border: 1px solid #c9c9c9;
+/*   border: 1px solid #c9c9c9; */
   /* padding: 20px; */
   background-color: #fff;
   margin: auto;
